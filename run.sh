@@ -1,0 +1,1 @@
+/usr/local/bin/nsys profile -t cuda,osrt,nvtx,cudnn,cublas -o baseline.qdstrm -w true python main.py
